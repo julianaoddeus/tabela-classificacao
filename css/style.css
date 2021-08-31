@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size:16px;
+    box-sizing: border-box;
+}
+
+table, td, tr, th {
+    border: 2px solid #ccc;
+    text-align: center;
+    padding:2px;
+    margin: 0 auto;
+
+}
+h1 {
+    font-size:22px;
+    text-transform: uppercase;
+    text-align: center;
+    margin:25px;
+}
+button {
+    color: #fff;
+    background-color: #8bafa7;
+    padding: 2px;
+    border: none;
+}
